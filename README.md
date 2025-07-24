@@ -4,7 +4,7 @@ Required hardware: ESP32-DHT11
 
 Next, connect the hardware and upload the code to the ESP32 folder (Note to edit the code part ... including wifi and server + topic mqtt)
 
-Go to the server_run folder, configure the .env file for the correct data type and start running the .exe file
+Go to the server folder, configure the .env file for the correct data type and start running the .exe file
 
 If you have any questions, please contact me:
 
