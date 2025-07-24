@@ -1,0 +1,3 @@
+Vcc-Vcc
+GND-GND
+Data-D4
