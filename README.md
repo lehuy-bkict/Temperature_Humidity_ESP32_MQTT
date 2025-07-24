@@ -7,3 +7,7 @@ Next, connect the hardware and upload the code to the ESP32_DHT11 folder (Note t
 Go to the server_run folder, configure the .env file for the correct data type and start running the .exe file
 
 If you have any questions, please contact me:
+
+✉ email: huyle.bkict@gmail.com
+
+LinkedIn: www.linkedin.com/in/hoang-huy-le-35603b342
