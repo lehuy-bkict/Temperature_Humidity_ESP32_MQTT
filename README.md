@@ -2,7 +2,7 @@ This project uses ESP32 combined with DHT11 sensor to collect real-time temperat
 
 Required hardware: ESP32-DHT11
 
-Next, connect the hardware and upload the code to the ESP32_DHT11 folder (Note to edit the code part ... including wifi and server + topic mqtt)
+Next, connect the hardware and upload the code to the ESP32 folder (Note to edit the code part ... including wifi and server + topic mqtt)
 
 Go to the server_run folder, configure the .env file for the correct data type and start running the .exe file
 
