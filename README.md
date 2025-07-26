@@ -6,6 +6,8 @@ Next, connect the hardware and upload the code to the ESP32 folder (Note to edit
 
 Go to the server folder, configure the .env file for the correct data type and start running the .exe file
 
+Open the browser and go to the connected host address.
+
 If you have any questions, please contact me:
 
 ✉ email: huyle.bkict@gmail.com
